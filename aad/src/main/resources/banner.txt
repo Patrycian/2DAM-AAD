@@ -1,0 +1,9 @@
+      .o.             .o.       oooooooooo.   
+     .888.           .888.      `888'   `Y8b  
+    .8"888.         .8"888.      888      888 
+   .8' `888.       .8' `888.     888      888 
+  .88ooo8888.     .88ooo8888.    888      888 
+ .8'     `888.   .8'     `888.   888     d88' 
+o88o     o8888o o88o     o8888o o888bood8P'
+
+${application.title} ${application.version}
